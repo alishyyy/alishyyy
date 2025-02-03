@@ -18,9 +18,4 @@
 [![Seraphina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alishyyy&show_icons=true&theme=radical&hide_border=true)](https://github.com/alishyyy)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alishyyy&layout=compact&theme=radical&hide_border=true)](https://github.com/alishyyy)
 
-### 🎯 **Let’s Connect!**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)  
-[![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF?style=flat&logo=mastodon)](https://YOUR_MASTODON)  
-[![Blog](https://img.shields.io/badge/-Blog-FF7139?style=flat&logo=hexo&logoColor=white)](https://YOUR_BLOG)  
-
 *"The code you write makes the universe you inhabit."* 🐧✨  
