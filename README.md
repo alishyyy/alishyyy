@@ -15,8 +15,8 @@
 - 🌱 Mentoring newbies in the art of terminal-fu.  
 
 ### 📊 **GitHub Stats**  
-[![Seraphina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)](https://github.com/YOUR_USERNAME)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/YOUR_USERNAME)  
+[![Seraphina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alishyyy&show_icons=true&theme=radical&hide_border=true)](https://github.com/alishyyy)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alishyyy&layout=compact&theme=radical&hide_border=true)](https://github.com/alishyyy)
 
 ### 🎯 **Let’s Connect!**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)  
